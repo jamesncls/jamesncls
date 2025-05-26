@@ -12,8 +12,9 @@ README personalizado gerado pelo Copilot com base nas suas informações!
 
 ## 🚀 Sobre mim
 
+- 🧑🏽‍💻 Desenvolvedor Full-stack
 - 🎓 Estudante universitário de Engenharia de Software
-- 💻 Desenvolvedor Júnior (PHP, HTML, CSS, JavaScript)
+- 💻 Trabalho como Desenvolvedor Júnior (PHP, HTML, CSS, JavaScript)
 - 🛠️ Experiência com bancos de dados, Python, Java e sistemas operacionais
 - 🌱 Atualmente desenvolvendo o sistema de automação comercial (**Simples Web Pro**-> https://github.com/Freeline-Informatica/simples_web_pro.git) (com geração de nota fiscal)
 
