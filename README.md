@@ -69,37 +69,6 @@ Sistema web de automação comercial com geração de nota fiscal, focado em fac
 </details>
 
 <!-- Exemplo visual conforme imagem enviada -->
-<p align="center">
-  <img src="![image1](image1)" alt="Exemplo de estatísticas do GitHub" width="650">
-</p>
 
----
-
-## 🏆 Troféus do GitHub
-
-<!-- Você pode usar badges como https://github-profile-trophy.vercel.app/ para exibir troféus reais -->
-<div align="center">
-
-  <!-- Exemplo visual conforme imagem enviada -->
-  <img src="![image2](image2)" alt="Troféus do GitHub" width="700">
-</div>
-
----
-
-## 📈 Sequências do GitHub
-
-<div align="center">
-  <!-- Exemplo visual conforme imagem enviada -->
-  <img src="![image2](image2)" alt="Sequências do GitHub" width="700">
-</div>
-
----
-
-## 📫 Contato
-
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nycollas-james-mavignier-684230298)
-- ✉️ nycollasjamesm@gmail.com
-
----
 
 <p align="center"><i>“Transformando ideias em soluções digitais!”</i></p>
