@@ -5,7 +5,6 @@ README personalizado gerado pelo Copilot com base nas suas informações!
 <h1 align="center">Olá, eu sou o Nycollas James 👋</h1>
 <p align="center">
   <i>Estudante universitário de Engenharia de Software & Desenvolvedor Júnior</i><br>
-  <b>Atualmente focado em PHP, HTML, CSS e JavaScript</b>
 </p>
 
 ---
@@ -14,7 +13,7 @@ README personalizado gerado pelo Copilot com base nas suas informações!
 
 - 🧑🏽‍💻 Desenvolvedor Full-stack
 - 🎓 Estudante universitário de Engenharia de Software
-- 💻 Trabalho como Desenvolvedor Júnior (PHP, HTML, CSS, JavaScript)
+- 💻 Trabalho como Desenvolvedor Júnior (PHP, HTML, CSS, JavaScript, Vue.js e Laravel)
 - 🛠️ Experiência com bancos de dados, Python, Java e sistemas operacionais
 - 🌱 Atualmente desenvolvendo o sistema de automação comercial (**Simples Web Pro**-> https://github.com/Freeline-Informatica/simples_web_pro.git) (com geração de nota fiscal)
 
