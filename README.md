@@ -13,9 +13,8 @@ README personalizado gerado pelo Copilot com base nas suas informações!
 
 - 🧑🏽‍💻 Desenvolvedor Full-stack
 - 🎓 Estudante universitário de Engenharia de Software
-- 💻 Trabalho como Desenvolvedor Júnior (PHP, HTML, CSS, JavaScript, Vue.js e Laravel)
+- 💻 Trabalho como Desenvolvedor Júnior (PHP, HTML, CSS, JavaScript, Vue.js, Laravel, Python)
 - 🛠️ Experiência com bancos de dados SQL, Python, Java e sistemas operacionais
-- 🌱 Atualmente desenvolvendo o sistema de automação comercial (com geração de nota fiscal)
 
 ---
 
